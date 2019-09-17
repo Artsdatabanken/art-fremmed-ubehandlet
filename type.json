@@ -1,8 +1,26 @@
 {
-  "FA": { "tittel": { "nb": "Fremmed art" } },
-  "FA-SE": { "tittel": { "nb": "Svært høy risiko" } },
-  "FA-HI": { "tittel": { "nb": "Høy risiko" } },
-  "FA-PH": { "tittel": { "nb": "Potensielt høy risiko" } },
-  "FA-LO": { "tittel": { "nb": "Lav risiko" } },
-  "FA-NK": { "tittel": { "nb": "Ingen kjent risiko" } }
+  "FA": { "tittel": { "nb": "Fremmed art" }, "nivå": "Risikovurdering" },
+  "FA-SE": {
+    "tittel": { "nb": "Svært høy risiko", "en": "Severe impact" },
+    "nivå": "Risikokategori"
+  },
+  "FA-HI": {
+    "tittel": { "nb": "Høy risiko", "en": "High impact" },
+    "nivå": "Risikokategori"
+  },
+  "FA-PH": {
+    "tittel": {
+      "nb": "Potensielt høy risiko",
+      "en": "Potentially high impact"
+    },
+    "nivå": "Risikokategori"
+  },
+  "FA-LO": {
+    "tittel": { "nb": "Lav risiko", "en": "Low impact" },
+    "nivå": "Risikokategori"
+  },
+  "FA-NK": {
+    "tittel": { "nb": "Ingen kjent risiko", "en": "No known impact" },
+    "nivå": "Risikokategori"
+  }
 }
