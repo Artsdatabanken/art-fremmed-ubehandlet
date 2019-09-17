@@ -1,0 +1,8 @@
+{
+  "FA": { "tittel": { "nb": "Fremmed art" } },
+  "FA-SE": { "tittel": { "nb": "Svært høy risiko" } },
+  "FA-HI": { "tittel": { "nb": "Høy risiko" } },
+  "FA-PH": { "tittel": { "nb": "Potensielt høy risiko" } },
+  "FA-LO": { "tittel": { "nb": "Lav risiko" } },
+  "FA-NK": { "tittel": { "nb": "Ingen kjent risiko" } }
+}
