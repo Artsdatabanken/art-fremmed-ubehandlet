@@ -13,6 +13,9 @@
       "nb": "Potensielt høy risiko",
       "en": "Potentially high impact"
     },
+    "ingress": {
+      "nb": "Fremmede arter med potensielt høy risiko (PH) har per i dag en lav faktisk påvirkning på norsk natur, men inngår i en egen risikokategori fordi påvirkninga kan øke gjennom uforutsette endringer. Disse endringene kan være evolusjonære eller økologiske."
+    },
     "nivå": "Risikokategori"
   },
   "FA-LO": {
