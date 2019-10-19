@@ -1,5 +1,11 @@
 {
-  "FA": { "tittel": { "nb": "Fremmed art" }, "nivå": "Risikovurdering" },
+  "FA": {
+    "tittel": { "nb": "Fremmed art" },
+    "beskrivelse": {
+      "nob": "Arter som opptrer utenfor sitt naturlige utbredelsesområde regnes som fremmede arter. De har kommet til Norge ved menneskets bevisste eller ubevisste hjelp."
+    },
+    "nivå": "Risikovurdering"
+  },
   "FA-SE": {
     "tittel": { "nb": "Svært høy risiko", "en": "Severe impact" },
     "nivå": "Risikokategori"
