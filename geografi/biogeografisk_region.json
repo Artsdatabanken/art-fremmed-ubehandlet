@@ -1,0 +1,44 @@
+{
+  "a": {
+    "subtropic": 4613,
+    "temperate": 6739,
+    "polar": 103,
+    "tropic": 403,
+    "unknown": 331,
+    "marint": 264
+  },
+  "b": {
+    "humid": 322,
+    "mediterranean": 2446,
+    "unspecified": 941,
+    "dry": 1799,
+    "nemoral": 4065,
+    "undefined": 1101,
+    "caperegion": 230,
+    "highlands": 290,
+    "boreal": 1259
+  },
+  "area": {
+    "NorthAndCentralAmerica": 4256,
+    "Africa": 2096,
+    "Asia": 6130,
+    "Oceania": 1618,
+    "SouthAmerica": 1451,
+    "Europe": 7550,
+    "AtlantNordVest": 107,
+    "AtlantNordOst": 134,
+    "Osters": 36,
+    "BlackSea": 47,
+    "CaspianSea": 21,
+    "StilleNord": 129,
+    "Middel": 82,
+    "Nordis": 6,
+    "AtlantSor": 41,
+    "Sorish": 6,
+    "AtlantTropic": 29,
+    "StilleSor": 42,
+    "StilleTropic": 18,
+    "IndianOTropic": 12,
+    "IndianOSouth": 11
+  }
+}

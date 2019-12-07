@@ -1,0 +1,39 @@
+[
+  { "Number": 1, "Code": "Am", "Red": 0, "Green": 120, "Blue": 255 },
+  { "Number": 2, "Code": "Aw", "Red": 70, "Green": 170, "Blue": 250 },
+  { "Number": 3, "Code": "BWh", "Red": 255, "Green": 0, "Blue": 0 },
+  { "Number": 4, "Code": "BWk", "Red": 255, "Green": 150, "Blue": 150 },
+  { "Number": 5, "Code": "BSh", "Red": 245, "Green": 165, "Blue": 0 },
+  { "Number": 6, "Code": "BSk", "Red": 255, "Green": 220, "Blue": 100 },
+  { "Number": 7, "Code": "Csa", "Red": 255, "Green": 255, "Blue": 0 },
+  { "Number": 8, "Code": "Csb", "Red": 200, "Green": 200, "Blue": 0 },
+  { "Number": 9, "Code": "Csc", "Red": 150, "Green": 150, "Blue": 0 },
+  { "Number": 10, "Code": "Cwa", "Red": 150, "Green": 255, "Blue": 150 },
+  { "Number": 11, "Code": "Cwb", "Red": 100, "Green": 200, "Blue": 100 },
+  { "Number": 12, "Code": "Cwc", "Red": 50, "Green": 150, "Blue": 50 },
+  { "Number": 13, "Code": "Cfa", "Red": 200, "Green": 255, "Blue": 80 },
+  { "Number": 14, "Code": "Cfb", "Red": 100, "Green": 255, "Blue": 50 },
+  { "Number": 15, "Code": "Cfc", "Red": 50, "Green": 200, "Blue": 0 },
+  { "Number": 16, "Code": "Dsa", "Red": 255, "Green": 0, "Blue": 255 },
+  { "Number": 17, "Code": "Dsb", "Red": 200, "Green": 0, "Blue": 200 },
+  { "Number": 18, "Code": "Dsc", "Red": 150, "Green": 50, "Blue": 150 },
+  { "Number": 19, "Code": "Dsd", "Red": 150, "Green": 100, "Blue": 150 },
+  { "Number": 20, "Code": "Dwa", "Red": 170, "Green": 175, "Blue": 255 },
+  { "Number": 21, "Code": "Dwb", "Red": 90, "Green": 120, "Blue": 220 },
+  { "Number": 22, "Code": "Dwc", "Red": 75, "Green": 80, "Blue": 180 },
+  { "Number": 23, "Code": "Dwd", "Red": 50, "Green": 0, "Blue": 135 },
+  { "Number": 24, "Code": "Dfa", "Red": 0, "Green": 255, "Blue": 255 },
+  { "Number": 25, "Code": "Dfb", "Red": 55, "Green": 200, "Blue": 255 },
+  { "Number": 26, "Code": "Dfc", "Red": 0, "Green": 125, "Blue": 125 },
+  { "Number": 27, "Code": "Dfd", "Red": 0, "Green": 70, "Blue": 95 },
+  {
+    "Number": 28,
+    "Code": "ET",
+    "Green": "Grey 30%"
+  },
+  {
+    "Number": 29,
+    "Code": "EF",
+    "Green": "Grey 60%"
+  }
+]
